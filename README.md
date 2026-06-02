@@ -13,5 +13,5 @@ I'm a developer and data enthusiast passionate about building intelligent system
 - **Tools & Platforms:** Git, GitHub, Google Colab
 
 ## 🤝 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/niraj-mandal-14555227b)
+- [LinkedIn](https://www.linkedin.com/in/shad0ws_461)
 - [Discord](https://discord.com/users/shad0ws_461)
