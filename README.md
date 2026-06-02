@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Niraj! 👋
 
-<!--
-**shad0ws461/shad0ws461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and data enthusiast passionate about building intelligent systems and clean user interfaces. 
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- 📊 **Data Analytics & ML:** Working on time-series forecasting, predictive modeling, and NLP.
+- 💻 **Web Development:** Crafting dashboards and full-stack apps using **React**, **Vite**, and **Streamlit**.
+- 📈 **FinTech Interest:** Exploring market data integration and technical analysis tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML/CSS
+- **Frameworks & Libraries:** React, Streamlit, Chart.js, Node.js
+- **Tools & Platforms:** Git, GitHub, Google Colab
+
+## 📊 GitHub Stats
+---
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=shad0ws461&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0ws461&layout=compact&theme=dark)
+
+## 🤝 Connect with me
+- [LinkedIn](www.linkedin.com/in/shad0ws461)
+- [Discord](https://discord.com/users/shad0ws_461)
