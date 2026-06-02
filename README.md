@@ -18,5 +18,5 @@ I'm a developer and data enthusiast passionate about building intelligent system
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shad0ws461&layout=compact&theme=dark)
 
 ## 🤝 Connect with me
-- [LinkedIn](www.linkedin.com/in/niraj-mandal-14555227b)
+- [LinkedIn](https://www.linkedin.com/in/niraj-mandal-14555227b)
 - [Discord](https://discord.com/users/shad0ws_461)
