@@ -5,7 +5,7 @@ I am a B.Tech student specializing in **Artificial Intelligence & Machine Learni
 - 🔭 **Current Focus:** Learning ROS 2 (Robot Operating System), C++ for real-time systems, and Linux (Ubuntu) environments.
 - 🧠 **Technical Interests:** Computer Vision, Path Planning Algorithms, Deep Learning, and Edge AI.
 - 📈 **FinTech Interest:** Exploring market data integration and technical analysis tools.
-- 💬 **Ask Me About:** Machine learning models, software development architectures, or transitioning from data to hardware.
+- 💬 **Ask Me About:** Machine Learning, Python development, and my journey transitioning into Robotics.
 
 ## 🛠️ Tech Stack & Toolkit
 
