@@ -1,17 +1,21 @@
-# Hi there, I'm Niraj! 👋
+# Hi there, I'm [ Niraj_Mandal ] 👋
 
-I'm a developer and data enthusiast passionate about building intelligent systems and clean user interfaces. 
+I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at Jai Narayan College of Technology (JNCT), Bhopal. My core engineering philosophy focuses on bridging the gap between intelligent software algorithms and physical autonomous hardware to build the future of **Robotics**.
 
-## 🚀 What I Do
-- 📊 **Data Analytics & ML:** Working on time-series forecasting, predictive modeling, and NLP.
-- 💻 **Web Development:** Crafting dashboards and full-stack apps using **React**, **Vite**, and **Streamlit**.
+- 🔭 **Current Focus:** Learning ROS 2 (Robot Operating System), C++ for real-time systems, and Linux (Ubuntu) environments.
+- 🧠 **Technical Interests:** Computer Vision, Path Planning Algorithms, Deep Learning, and Edge AI.
 - 📈 **FinTech Interest:** Exploring market data integration and technical analysis tools.
+- 💬 **Ask Me About:** Machine learning models, software development architectures, or transitioning from data to hardware.
 
-## 🛠️ Tech Stack
-- **Languages:** Python,Java[DSA], JavaScript, HTML/CSS
-- **Frameworks & Libraries:** React, Streamlit, Chart.js, Node.js
-- **Tools & Platforms:** Git, GitHub, Google Colab
+## 🛠️ Tech Stack & Toolkit
 
-## 🤝 Connect with me
+- **Languages:** Python, C++, SQL, Java[DSA] , JavaScript
+- **AI / Machine Learning:** PyTorch, Scikit-Learn, OpenCV, TensorFlow
+- **Web & Applications:** React.js, Node.js, Express, MongoDB
+- **Developer Tools:** Git & GitHub, Linux, VS Code
+
+- 📫 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/niraj-mandal-14555227b)
 - [Discord](https://discord.com/users/shad0ws_461)
+
+*"Logic is the bridge between dreams and data. Currently building the logic to make machines move intelligently."*
